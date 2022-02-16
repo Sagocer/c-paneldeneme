@@ -1,1 +1,3 @@
 c-panel git denemesi
+
+c panel 2. deneme 
